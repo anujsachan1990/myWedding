@@ -696,17 +696,10 @@ $(window).load(function() {
         zoom: 14,
         markers: [
           {
-            latitude: -33.898361,
-            longitude: 151.17529,
+            latitude: 26.4362754,
+            longitude: 80.3099151,
             html:
-              "<strong>The Ceremony</strong><br/>Manalia Tower Floor 24 Room 256<br/>Anfix Street ST01<br/><strong>GPS:</strong> -33.898361, 151.175290",
-            popup: true
-          },
-          {
-            latitude: -33.905485,
-            longitude: 151.169131,
-            html:
-              "<strong>Wedding Party</strong><br/>Forine Restaurant<br/>Rose Street ST08<br/><strong>GPS:</strong> -33.905485, 151.169131",
+              "<strong>The Ceremony</strong><br/>Kishori Vatika<br/>127/152, W-1 Block, Saket Nagar, Kanpur, Uttar Pradesh 208014, India",
             popup: true
           }
         ],
