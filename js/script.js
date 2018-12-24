@@ -357,8 +357,8 @@ $(document).ready(function() {
   // COUNTDOWN
   //===================================================================================
   var theday = new Date();
-  theday = new Date(2019, 3, 17);
-  $("#countdown").countdown({ until: theday, format: "WDHMS" });
+  theday = new Date(2019, 2, 19);
+  $("#countdown").countdown({ until: theday, format: "DHMS" });
 
   // STICKY NAV (MOBILE) - FOR SIDEBAR VERSION
   //===================================================================================
